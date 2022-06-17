@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Wil_AK" target="blank"><img src="https://img.shields.io/twitter/follow/Wil_AK?logo=twitter&style=for-the-badge" alt="Wil_AK" /></a> </p>
 
-- 🔭 I’m currently working with [Akilli X](https://www.akillix.com/)
+- 🔭 I’m currently working with [Jabu Logistics](https://www.gojabu.com/)
 
 - 🌱 I’m currently learning **GraphQL with Dart and Flutter**
 
