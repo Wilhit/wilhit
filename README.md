@@ -7,13 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/Wil_AK" target="blank"><img src="https://img.shields.io/twitter/follow/Wil_AK?logo=twitter&style=for-the-badge" alt="Wil_AK" /></a> </p>
 
-- 🔭 I’m currently working with [Jabu Logistics](https://www.gojabu.com/)
+- 🔭 I’m currently working with [Food and Agriculture Organization](https://www.fao.org/home/en)
 
-- 🌱 I’m currently learning **GraphQL with Dart and Flutter**
+- 🌱 I’m currently learning **React Native and Advance Project Management**
 
-- 👯 I’m looking to collaborate on [Flutter Based Projects](https://wilfriedkongolo.wilhitorg.com)
+- 👯 I’m looking to collaborate on [Flutter Based Projects]
 
-- 🤝 I’m looking for help with [DS, AI and ML based projects](https://www.wilfriedkongolo.wilhitorg.com)
+- 🤝 I’m looking for help with [DS, AI and ML based projects]
+<!-- - (https://www.wilfriedkongolo.wilhitorg.com)-->
 
 <!-- - 👨‍💻 All of my projects are available at [https://rvndsngwn.github.io/portfolio_one/#/](https://rvndsngwn.dev) -->
 
@@ -23,7 +24,7 @@
 
 - 📫 How to reach me **wilhitw@gmail.com**
 
-- 📄 Know about my experiences [Wilfried/Wilhit](https://www.wilfriedkongolo.wilhitorg.com)
+<!-- 📄 Know about my experiences [Wilfried/Wilhit](https://www.wilfriedkongolo.wilhitorg.com)-->
 
 - ⚡ Fun fact **I think of coding and designing as breathing**
 
